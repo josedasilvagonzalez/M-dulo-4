@@ -7,7 +7,7 @@ def calcular_quadrado():
         base=float(input("Digite a base do quadrado: "))
         altura=float(input("Digite a altura do quadrado: "))
         area=base*altura
-        print(f"A área do retângulo é: {area}")
+        print(f"A área do quadrado é: {area}")
     elif escolha == "P":
         base=float(input("Digite a base do quadrado: "))
         altura=float(input("Digite a altura do quadrado: "))
